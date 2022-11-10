@@ -1,2 +1,2 @@
-# .github
-A readme configuration repo
+# Lunatee
+description coming soon!
